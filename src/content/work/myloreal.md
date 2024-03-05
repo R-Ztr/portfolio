@@ -10,12 +10,30 @@ tags:
   - Branding
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Hackathon en Partenariat avec L'Oréal : Assistant Personnel de Beauté
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Contexte : </br>
+Lors du hackathon de 48 heures en partenariat avec L'Oréal, nous avons eu pour défi de créer un assistant personnel de beauté qui simplifierait le processus d'achat de produits de beauté pour les utilisateurs. En équipe de quatre développeurs, nous avons utilisé nos compétences et nos connaissances pour concevoir et développer un outil innovant visant à aider les consommateurs dans leurs choix de produits de beauté.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Détails du Projet : </br>
+Nom du Projet : Myl'oreal </br>
+Durée du Hackathon : 48 heures </br>
+Équipe : Quatre développeurs (y compris moi-même) </br>
+Technologies Utilisées : </br>
+PHP
+Twig
+HTML
+CSS
+MySQL (SGBD)
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Objectif : </br>
+Notre objectif principal était de créer un assistant personnel de beauté qui utiliserait les données des achats réguliers d'un utilisateur pour recommander des produits adaptés à ses besoins spécifiques. L'objectif était d'améliorer l'expérience d'achat en ligne en proposant des suggestions personnalisées et en simplifiant le processus de reconstitution des stocks.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+Principales Fonctionnalités : </br>
+Analyse des Achats : L'assistant analyse les achats réguliers d'un utilisateur pour identifier les produits de beauté qu'il utilise fréquemment. </br>
+Recommandations Personnalisées : En se basant sur l'historique d'achat, l'assistant recommande des produits similaires ou complémentaires susceptibles d'intéresser l'utilisateur. </br>
+Panier Type : L'assistant crée un panier type contenant les produits recommandés, adapté aux besoins et aux habitudes d'achat de l'utilisateur. </br>
+Estimation de Consommation : En se basant sur les données historiques, l'assistant estime la durée de vie des produits et envoie des rappels par e-mail lorsque les produits sont sur le point de s'épuiser. </br>
+
+Résultats et Enseignements : </br>
+Participer à ce hackathon avec L'Oréal a été une expérience passionnante et stimulante. En collaborant avec une équipe de développeurs talentueux, nous avons pu mettre en œuvre une solution innovante qui utilise l'intelligence artificielle pour améliorer l'expérience d'achat des consommateurs de produits de beauté. Ce projet nous a permis d'explorer de nouvelles technologies et de repousser nos limites en matière de développement web.

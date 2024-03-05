@@ -11,12 +11,27 @@ tags:
   - Backend
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Projet 1 : Site Web pour le Restaurant Le Romery </br>
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Contexte : </br>
+Le projet 1 a été réalisé dans le cadre de ma formation à la Wild Code School. En collaboration avec deux autres développeurs, nous avons entrepris de créer un site web pour le restaurant Le Romery. L'objectif principal était d'acquérir une solide compréhension des bases du développement web, en utilisant principalement HTML et CSS.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Détails du Projet : </br>
+Nom du Projet : Site Web pour le Restaurant Le Romery </br>
+Durée de Développement : Deux semaines </br>
+Équipe : Trois développeurs (y compris moi-même) </br>
+Technologies Utilisées :
+HTML
+CSS </br>
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Objectif : </br>
+Le but de ce projet était de créer un site web simple mais fonctionnel pour un restaurant fictif nommé Le Romery. Nous avons utilisé ce projet comme un moyen d'appliquer nos connaissances fraîchement acquises en développement web, en mettant l'accent sur la création d'une interface utilisateur attrayante et conviviale.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+Principales Fonctionnalités : </br>
+Page d'Accueil : Une page accueillante présentant le restaurant, avec des images attrayantes et un slogan engageant. </br>
+Menu : Une section dédiée à la présentation du menu du restaurant, avec descriptions des plats. </br>
+Galerie : Une galerie d'images mettant en valeur l'ambiance et les plats du restaurant. </br>
+Contact : Une page permettant aux visiteurs de contacter le restaurant via un formulaire ou en affichant les coordonnées. </br>
+
+Apprentissages et Enrichissement :
+Ce projet a été une expérience précieuse qui nous a permis d'approfondir nos connaissances en développement web. En travaillant en équipe, nous avons appris à collaborer efficacement, à résoudre des problèmes ensemble et à mettre en pratique les principes fondamentaux du HTML et du CSS. La réalisation de ce site pour Le Romery nous a donné une base solide sur laquelle nous avons pu construire nos compétences tout au long de notre formation.
