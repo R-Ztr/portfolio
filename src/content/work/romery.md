@@ -22,7 +22,8 @@ Durée de Développement : Deux semaines </br>
 Équipe : Trois développeurs (y compris moi-même) </br>
 Technologies Utilisées :
 HTML
-CSS </br>
+CSS
+Figma </br>
 
 Objectif : </br>
 Le but de ce projet était de créer un site web simple mais fonctionnel pour un restaurant fictif nommé Le Romery. Nous avons utilisé ce projet comme un moyen d'appliquer nos connaissances fraîchement acquises en développement web, en mettant l'accent sur la création d'une interface utilisateur attrayante et conviviale.

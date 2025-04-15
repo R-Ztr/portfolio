@@ -25,6 +25,7 @@ Twig
 HTML
 CSS
 MySQL (SGBD)
+Figma
 
 Objectif : </br>
 Notre objectif principal était de créer un assistant personnel de beauté qui utiliserait les données des achats réguliers d'un utilisateur pour recommander des produits adaptés à ses besoins spécifiques. L'objectif était d'améliorer l'expérience d'achat en ligne en proposant des suggestions personnalisées et en simplifiant le processus de reconstitution des stocks.

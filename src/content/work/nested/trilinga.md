@@ -26,7 +26,8 @@ Twig
 HTML
 CSS
 JavaScript
-MySQL (SGBD) </br>
+MySQL (SGBD)
+Figma </br>
 
 Architecture : </br>
 Nous avons adopté une architecture Modèle-Vue-Contrôleur (MVC) pour organiser notre code de manière plus modulaire et maintenable. Cela nous a permis de séparer la logique métier, la présentation et le contrôle des flux de données.

@@ -24,7 +24,8 @@ Technologies Utilisées :
 Symphony
 HTML
 CSS (Bootstrap)
-MySQL (SGBD) </br>
+MySQL (SGBD)
+Figma </br>
 
 Architecture : </br>
 Nous avons adopté l'architecture Modèle-Vue-Contrôleur (MVC) avec Symphony pour organiser notre code de manière modulaire et maintenable. Cela nous a permis de séparer la logique métier, la présentation et le contrôle des flux de données.

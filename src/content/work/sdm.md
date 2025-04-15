@@ -25,7 +25,8 @@ PHP
 Twig
 HTML
 CSS
-MySQL (SGBD) </br>
+MySQL (SGBD)
+Figma </br>
 
 Objectif : </br>
 Le défi consistait à créer un site web fonctionnel sur le thème de Noël en seulement 24 heures. Notre objectif avec "Balance ton Santa" était de capturer l'esprit festif de Noël en permettant aux utilisateurs de partager des histoires drôles et divertissantes liées à cette période de l'année.

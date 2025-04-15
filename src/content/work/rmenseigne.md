@@ -4,7 +4,7 @@ publishDate: 2024-01-01 00:00:00
 img: /assets/rmenseigne.png
 img_alt: Image du deuxième hackathon à la WCS, le site est My l'oreal.
 description: |
-  Deuxième hackathon réaliser à la Wild Code School en partenariat avec L'oréal
+  Projet réaliser lors de mon stage chez RM enseigne
 tags:
   - Design
   - Branding
